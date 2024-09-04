@@ -5,10 +5,10 @@ user-guide-title: Interface do Adobe Campaign Web
 user-guide-description: Saiba como usar os recursos e as funcionalidades da interface do Adobe Campaign Web.
 breadcrumb-title: Interface Web – Tutoriais
 auto-video-transcripts: true
-source-git-commit: b99644fbf167da31382a931a2b0a3073f132a527
+source-git-commit: e10369e1cdd3487dfaeaff119e4973142e7d8db8
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 90%
+source-wordcount: '134'
+ht-degree: 100%
 
 ---
 
@@ -18,13 +18,14 @@ ht-degree: 90%
 + [Tutoriais da interface do Adobe Campaign Web](/help/ac-web-learn-main/overview.md)
 + Introdução {#getting-started}
    + [Explore a interface do Campaign Web](/help/get-started/explore-the-web-ui.md)
-   + [Introdução ao Adobe Campaign v8 após a migração do Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)
+   + [Introdução ao Adobe Campaign v8 após a migração do Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=pt-BR)
 + Mensagens e entregas {#messages-and-deliveries}
    + [Crie uma entrega por email](/help/deliveries/create-an-email-delivery.md)
    + [Crie um conteúdo de email do zero](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Criar um email fazendo o upload de um HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Crie e melhore os conteúdos de email com o Assistente de conteúdo](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
    + [Visualizar e fazer uma prova de uma entrega de email](/help/deliveries/preview-and-proof-an-email-delivery.md)
+   + [Criar uma entrega de correspondência direta](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Perfis e públicos-alvo {#profiles-and-audiences}
    + [Explore perfis](/help/profiles-and-audiences/explore-profiles.md)
    + [Gerenciar e criar públicos-alvo](/help/profiles-and-audiences/manage-and-build-audiences.md)
