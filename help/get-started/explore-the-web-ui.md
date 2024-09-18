@@ -10,15 +10,15 @@ jira: KT-14388
 duration: 592
 exl-id: 8c2f3847-5aca-4b7a-bf86-1212a741dfdd
 source-git-commit: 2b6d610ce9388e1d074ab872b31bdf072922e861
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 # Explore a interface do Campaign Web
 
-Saiba como acessar e navegar na interface da Web do Campaign e personalizar as listas de inventário.
+Saiba como acessar e navegar pela interface do usuário do Campaign Web e como personalizar as listas de inventário. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
 
