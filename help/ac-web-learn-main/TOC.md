@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 88%
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 88%
    + [Crie um conteúdo de email do zero](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Criar um email fazendo o upload de um HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Crie e melhore os conteúdos de email com o Assistente de conteúdo](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
-   + [Criar conteúdo com o Assistente de IA no Campaign - Acelerador de conteúdo](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
+   + [Criar conteúdo com o Assistente de IA do Campaign: acelerador de conteúdo](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [Visualizar e fazer uma prova de uma entrega de email](/help/deliveries/preview-and-proof-an-email-delivery.md)
    + [Criar uma entrega de correspondência direta](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Perfis e públicos-alvo {#profiles-and-audiences}
