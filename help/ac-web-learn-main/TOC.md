@@ -5,10 +5,10 @@ user-guide-title: Interface do Adobe Campaign Web
 user-guide-description: Saiba como usar os recursos e as funcionalidades da interface do Adobe Campaign Web.
 breadcrumb-title: Interface Web – Tutoriais
 auto-video-transcripts: true
-source-git-commit: d5625a3edfc642ab006f295401c2532e3d6e1b37
+source-git-commit: 0d61de1f116d1ee98abbb1e120a8a4d09db7ed4f
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 95%
+source-wordcount: '154'
+ht-degree: 85%
 
 ---
 
@@ -36,4 +36,5 @@ ht-degree: 95%
 + Gravações ao vivo da Experience League {#exl-live-recordings}
    + [Chegue a outro nível com a nova interface do Adobe Campaign Web](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=pt-BR){target="_blank"}
 + [Tutoriais do console do cliente do Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=pt-BR){target="_blank"}
++ [Bloqueio de IA - Desbloqueando o poder do assistente de IA em aplicativos e no Campaign da Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
 

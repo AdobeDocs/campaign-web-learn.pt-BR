@@ -6,10 +6,10 @@ role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
-source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
+source-git-commit: 0d61de1f116d1ee98abbb1e120a8a4d09db7ed4f
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 100%
+source-wordcount: '305'
+ht-degree: 88%
 
 ---
 
@@ -44,3 +44,8 @@ A personalização da plataforma do Campaign com base nas necessidades de negóc
 * **[Chegue a outro nível com a nova interface do Adobe Campaign Web](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=pt-BR){target="_blank"}**
 
   *Saiba como planejar, iniciar e medir campanhas entre canais na nova experiência do usuário.*
+
+* **[Bloqueio de IA - Desbloqueando o poder do Assistente de IA em aplicativos e no Campaign da Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+
+  *Saiba como o Assistente de IA transforma as interações com o cliente e melhora a produtividade nos Aplicativos Adobe Experience Cloud e no Adobe Campaign.*
+
