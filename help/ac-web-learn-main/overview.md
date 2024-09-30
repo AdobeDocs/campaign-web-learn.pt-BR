@@ -6,7 +6,7 @@ role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
-source-git-commit: 0d61de1f116d1ee98abbb1e120a8a4d09db7ed4f
+source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 88%
@@ -26,6 +26,7 @@ A personalização da plataforma do Campaign com base nas necessidades de negóc
 >
 > Esses tutoriais não são o que você está procurando?
 > Consulte os
+> 
 > * [Tutoriais do console do cliente do Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=pt-BR){target="_blank"} para obter orientação sobre o console do Campaign
 > * [Documentação do Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=pt-BR){target="_blank"} para obter mais informações sobre a interface do Campaign Web.
 
