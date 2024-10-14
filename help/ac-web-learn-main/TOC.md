@@ -6,9 +6,9 @@ user-guide-description: Saiba como usar os recursos e as funcionalidades da inte
 breadcrumb-title: Interface Web – Tutoriais
 auto-video-transcripts: true
 source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 85%
 
 + [Tutoriais da interface do Adobe Campaign Web](/help/ac-web-learn-main/overview.md)
 + Introdução {#getting-started}
-   + [Guia de adoção do Adobe Campaign v8](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [Guia de adoção do Adobe Campaign v8](https://experienceleague.adobe.com/pt-br/docs/campaign-web/acs-to-ac/home)
    + [Explore a interface do Campaign Web](/help/get-started/explore-the-web-ui.md)
 + Mensagens e entregas {#messages-and-deliveries}
    + [Crie uma entrega por email](/help/deliveries/create-an-email-delivery.md)
@@ -36,4 +36,4 @@ ht-degree: 85%
 + Gravações ao vivo da Experience League {#exl-live-recordings}
    + [Chegue a outro nível com a nova interface do Adobe Campaign Web](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=pt-BR){target="_blank"}
 + [Tutoriais do console do cliente do Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=pt-BR){target="_blank"}
-+ [Bloqueio de IA - Desbloqueando o poder do assistente de IA em aplicativos e no Campaign da Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
++ [Festa da IA: como desbloquear o poder do Assistente de IA em aplicativos da Adobe Experience Platform e no Campaign](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)

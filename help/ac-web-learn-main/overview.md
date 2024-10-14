@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
 source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '305'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ A personalização da plataforma do Campaign com base nas necessidades de negóc
 
   *Saiba como planejar, iniciar e medir campanhas entre canais na nova experiência do usuário.*
 
-* **[Bloqueio de IA - Desbloqueando o poder do Assistente de IA em aplicativos e no Campaign da Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+* **[Festa da AI: como explorar o potencial do Assistente de IA em aplicativos da Adobe Experience Platform e no Campaign](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
 
-  *Saiba como o Assistente de IA transforma as interações com o cliente e melhora a produtividade nos Aplicativos Adobe Experience Cloud e no Adobe Campaign.*
+  *Saiba como o Assistente de IA transforma as interações com o cliente e melhora a produtividade nos Aplicativos da Adobe Experience Cloud e no Adobe Campaign.*
 
