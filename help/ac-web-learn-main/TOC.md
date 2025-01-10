@@ -5,9 +5,9 @@ user-guide-title: Interface do Adobe Campaign Web
 user-guide-description: Saiba como usar os recursos e as funcionalidades da interface do Adobe Campaign Web.
 breadcrumb-title: Interface Web – Tutoriais
 auto-video-transcripts: true
-source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: ht
-source-wordcount: '154'
+source-git-commit: 4cc7d83096f08728a5fb7ad7972be5953ca62126
+workflow-type: tm+mt
+source-wordcount: '159'
 ht-degree: 100%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 100%
    + [Criar uma entrega de correspondência direta](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Perfis e públicos-alvo {#profiles-and-audiences}
    + [Explore perfis](/help/profiles-and-audiences/explore-profiles.md)
+   + [Criar e gerenciar perfis de teste](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
    + [Gerenciar e criar públicos-alvo](/help/profiles-and-audiences/manage-and-build-audiences.md)
    + [Criar um público-alvo com a Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Workflows {#workflows}
