@@ -6,9 +6,9 @@ user-guide-description: Saiba como usar os recursos e as funcionalidades da inte
 breadcrumb-title: Interface Web – Tutoriais
 auto-video-transcripts: true
 source-git-commit: 9869357b23d4fee7ec0a9ae7fa1806d0857d9630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 96%
    + [Criar conteúdo com o Assistente de IA do Campaign: acelerador de conteúdo](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [Criar uma entrega de correspondência direta](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Gestão de conteúdo {#content-management}
-   + [Aprimorar um delivery com conteúdo dinâmico](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
+   + [Aprimorar uma entrega com conteúdo dinâmico](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
 + Perfis e públicos-alvo {#profiles-and-audiences}
    + [Explore perfis](/help/profiles-and-audiences/explore-profiles.md)
    + [Criar e gerenciar perfis de teste](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
