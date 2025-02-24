@@ -1,6 +1,6 @@
 ---
-title: 'Criar conteúdo com o Assistente de IA do Campaign: acelerador de conteúdo'
-description: 'Saiba como usar o Assistente de IA do Campaign: acelerador de conteúdo para gerar conteúdo com reconhecimento de canais para campanhas em lotes e diretas em tempo real que ressoem com o público-alvo.'
+title: Crie conteúdo com o Assistente de IA para geração de conteúdo
+description: Saiba como usar o Assistente de IA para geração de conteúdo para gerar conteúdo sensível a canais para campanhas em lote e 1:1 em tempo real que repercutem com o público-alvo.
 feature: Email Design
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,17 +10,17 @@ duration: 206
 last-substantial-update: 2024-09-11T00:00:00Z
 hidefromtoc: false
 hide: false
-source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
+source-git-commit: 5786cc852e17ec39c43480ccfd6051a2a8f3bd72
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 22%
 
 ---
 
+# Crie conteúdo com o Assistente de IA para geração de conteúdo
 
-# Criar conteúdo com o Assistente de IA do Campaign: acelerador de conteúdo
-
-Saiba como usar o Assistente de IA do Campaign: acelerador de conteúdo para gerar conteúdo com reconhecimento de canais para campanhas em lotes e diretas em tempo real que ressoem com o público-alvo.
+Saiba como usar o Assistente de IA para geração de conteúdo para gerar conteúdo sensível a canais para campanhas em lote e 1:1 em tempo real que repercutem com o público-alvo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433569/?learn=on)
 
