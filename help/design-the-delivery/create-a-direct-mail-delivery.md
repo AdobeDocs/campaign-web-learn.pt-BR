@@ -23,6 +23,6 @@ A correspondência direta é um canal offline que permite produzir arquivos para
 
 Saiba como criar uma entrega de correspondência direta na interface do usuário da web do Adobe Campaign v8.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433316/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451788/?learn=on&captions=por_br)
 
 Consulte a [documentação do produto da interface do usuário do Campaign Web](https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail) para mais informações.

@@ -20,7 +20,7 @@ ht-degree: 43%
 
 Entenda como os workflows funcionam e como criar um workflow para construção do target.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453977/?learn=on&captions=por_br)
 
 
 Para obter mais informações sobre esse recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=pt-BR).

@@ -27,6 +27,6 @@ Saiba como usar o assistente de conteúdo alimentado pela IA generativa para cri
 >
 > Esse recurso está disponível na versão Alpha e está sujeito a alterações sem aviso prévio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452074/?learn=on&captions=por_br)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).
