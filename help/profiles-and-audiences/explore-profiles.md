@@ -22,4 +22,4 @@ Saiba como acessar, gerenciar e explorar perfis usando a interface do Campaign W
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
 
-Para obter mais informações sobre esse recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html)
+Para obter mais informações sobre esse recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html?lang=pt-BR)

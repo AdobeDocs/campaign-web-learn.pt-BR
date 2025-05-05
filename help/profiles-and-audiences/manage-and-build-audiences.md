@@ -22,4 +22,4 @@ Saiba como criar e gerenciar públicos-alvo, selecionar públicos-alvo para uma 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
 
-Para obter mais informações sobre esse recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=en)
+Para obter mais informações sobre esse recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=pt-BR)

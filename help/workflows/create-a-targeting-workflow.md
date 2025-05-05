@@ -23,4 +23,4 @@ Entenda como os workflows funcionam e como criar um workflow para construção d
 >[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
 
 
-Para obter mais informações sobre esse recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html).
+Para obter mais informações sobre esse recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=pt-BR).
