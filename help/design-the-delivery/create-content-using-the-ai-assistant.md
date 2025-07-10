@@ -1,5 +1,5 @@
 ---
-title: Criar conteúdo com o Assistente de IA para geração de conteúdo
+title: Criar conteúdo usando o Assistente de IA para geração de conteúdo
 description: Saiba como usar o acelerador de conteúdo do Assistente de IA da Adobe para gerar e personalizar rapidamente emails de marketing, incluindo linhas de assunto, corpo do texto e imagens, e integração de ativos aprovados pela marca para fins de consistência e conformidade.
 feature: Email Design
 role: Admin, Developer, Leader, User
@@ -11,18 +11,18 @@ last-substantial-update: 2025-06-09T00:00:00Z
 hidefromtoc: false
 hide: false
 exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
-source-git-commit: c0586330363a33e23b77c911c984aece9bb6ae83
-workflow-type: ht
-source-wordcount: '101'
-ht-degree: 100%
+source-git-commit: 134c79c023dc85fca65ba92bad669bc49322fe1f
+workflow-type: tm+mt
+source-wordcount: '99'
+ht-degree: 83%
 
 ---
 
-# Criar conteúdo com o Assistente de IA para geração de conteúdo
+# Criar conteúdo usando o Assistente de IA para geração de conteúdo
 
 Saiba como usar o acelerador de conteúdo do Assistente de IA da Adobe para gerar e personalizar rapidamente emails de marketing, incluindo linhas de assunto, corpo do texto e imagens, e integração de ativos aprovados pela marca para fins de consistência e conformidade.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463769/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
 
 ## Recursos adicionais
 
