@@ -5,7 +5,7 @@ user-guide-title: Interface do Adobe Campaign Web
 user-guide-description: Saiba como usar os recursos e as funcionalidades da interface do Adobe Campaign Web.
 breadcrumb-title: Interface Web – Tutoriais
 auto-video-transcripts: true
-source-git-commit: b256cae07b17e5ca318ac2985116f63fbd6e467c
+source-git-commit: a30c5951a9e7cc4ec1c33e59d59e9bda11c6041f
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 96%
@@ -24,10 +24,10 @@ ht-degree: 96%
    + [Crie um conteúdo de email do zero](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Criar um email fazendo o upload de um HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Visualizar e fazer uma prova de uma entrega de email](/help/deliveries/preview-and-proof-an-email-delivery.md)
-   + [Criar conteúdo com o Assistente de IA para geração de conteúdo](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
    + [Criar uma entrega de correspondência direta](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Gerenciamento de conteúdo {#content-management}
    + [Aprimorar uma entrega com conteúdo dinâmico](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
+   + [Criar conteúdo com o Assistente de IA para geração de conteúdo](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
 + Perfis e públicos-alvo {#profiles-and-audiences}
    + [Explorar perfis](/help/profiles-and-audiences/explore-profiles.md)
    + [Criar e gerenciar perfis de teste](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
