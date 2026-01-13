@@ -5,7 +5,7 @@ user-guide-title: Interface do Adobe Campaign Web
 user-guide-description: Saiba como usar os recursos e as funcionalidades da interface do Adobe Campaign Web.
 breadcrumb-title: Interface Web – Tutoriais
 auto-video-transcripts: true
-source-git-commit: ad2377dde49c1ab0f805c998d407d04ffe659c26
+source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 95%
@@ -17,9 +17,9 @@ ht-degree: 95%
 
 + [Tutoriais da interface do Adobe Campaign Web](/help/ac-web-learn-main/overview.md)
 + Introdução {#getting-started}
+   + [Demonstração interativa](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
    + [Guia de adoção do Adobe Campaign v8](https://experienceleague.adobe.com/pt-br/docs/campaign-web/acs-to-ac/home)
    + [Explore a interface do Campaign Web](/help/get-started/explore-the-web-ui.md)
-   + [Demonstração interativa](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
 + Mensagens e entregas {#messages-and-deliveries}
    + [Crie uma entrega por email](/help/deliveries/create-an-email-delivery.md)
    + [Crie um conteúdo de email do zero](/help/design-the-delivery/create-email-content-from-scratch.md)
