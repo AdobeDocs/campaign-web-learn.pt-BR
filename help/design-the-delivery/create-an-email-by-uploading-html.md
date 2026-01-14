@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como criar um email fazendo o upload de um HTML, como torná-lo compatível com o designer de email e como convertê-lo em um modelo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427633/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447037/?captions=por_br&learn=on)

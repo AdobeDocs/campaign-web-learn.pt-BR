@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Aprenda como visualizar o conteúdo e a personalização de mensagens de email, enviar entregas de teste (provas) para destinatários ou assinantes específicos para teste e validação e verificar a renderização de email em clientes populares para desktop, dispositivos móveis e baseados na Web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425862/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450342/?captions=por_br&learn=on)
