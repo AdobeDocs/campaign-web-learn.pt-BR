@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Saiba como navegar no Designer de email. Saiba como estruturar e projetar um email do zero, além de personalizá-lo e testá-lo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453570/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3425867/?learn=on)
 
 >[!NOTE]
 >

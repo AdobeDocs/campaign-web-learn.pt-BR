@@ -10,7 +10,7 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-14954
 exl-id: 653bb340-6aa9-4ac9-b027-0e22355c8fbf
 source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como criar um email fazendo o upload de um HTML, como torná-lo compatível com o designer de email e como convertê-lo em um modelo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447037/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3427633/?learn=on)
