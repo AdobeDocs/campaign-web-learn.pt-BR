@@ -22,4 +22,4 @@ Ao criar uma campanha no Adobe Campaign, você tem a capacidade de criar conteú
 
 Saiba como criar um perfil de teste no console do cliente e como gerenciar e editar perfis na interface do Adobe Campaign Web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442844/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442900/?captions=por_br&learn=on&enablevpops)

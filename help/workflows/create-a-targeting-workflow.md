@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Entenda como os fluxos de trabalho funcionam e como criar um fluxo de trabalho de direcionamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453977/?captions=por_br&learn=on)
 
 
 Para obter mais informações sobre esse recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=pt-BR).
