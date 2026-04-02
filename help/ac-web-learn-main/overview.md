@@ -30,7 +30,7 @@ A personalização da plataforma do Campaign com base nas necessidades de negóc
 > Consulte os
 > 
 > * [Tutoriais do console do cliente do Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=pt-BR){target="_blank"} para obter orientação sobre o console do Campaign
-> * [Documentação do Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html){target="_blank"} para obter mais informações sobre a interface do Campaign Web.
+> * [Documentação do Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=pt-BR){target="_blank"} para obter mais informações sobre a interface do Campaign Web.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
