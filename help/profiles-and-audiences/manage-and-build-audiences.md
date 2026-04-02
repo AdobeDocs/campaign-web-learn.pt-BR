@@ -10,9 +10,9 @@ last-substantial-update: 2024-02-15T00:00:00Z
 jira: KT-14392
 exl-id: 59bd4866-02de-4bf6-a104-96416251e850
 source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
-workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 32%
+workflow-type: ht
+source-wordcount: '66'
+ht-degree: 100%
 
 ---
 
@@ -20,6 +20,6 @@ ht-degree: 32%
 
 Saiba como criar e gerenciar públicos-alvo, selecionar públicos-alvo para uma entrega e definir grupos de controle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453207/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=pt-BR)
