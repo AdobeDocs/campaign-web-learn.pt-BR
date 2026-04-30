@@ -10,7 +10,7 @@ duration: 206
 last-substantial-update: 2025-06-09T00:00:00Z
 exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
 source-git-commit: e7356ef028111687eeebb8a1d7e1e0f58de37e05
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Saiba como usar o acelerador de conteúdo do Assistente de IA da Adobe para gerar e personalizar rapidamente emails de marketing, incluindo linhas de assunto, corpo do texto e imagens, e integração de ativos aprovados pela marca para fins de consistência e conformidade.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463769/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
 
 ## Recursos adicionais
 
