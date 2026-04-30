@@ -1,23 +1,23 @@
 ---
 source-git-commit: 13f46ed7bfa40b6f71ec4c422af83929bc353e37
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 36%
+source-wordcount: '521'
+ht-degree: 40%
 
 ---
-# Artigo do Contribute
+# Artigo de contribuição
 
-As contribuições de nossa comunidade, bem como de funcionários da Adobe que não fazem parte das equipes de documentação são bem-vindas.
+Aceitamos contribuições de nossa comunidade e de funcionários da Adobe de fora das equipes de documentação.
 
-## Código de conduta de fonte aberta da Adobe
+## Código de conduta de código aberto da Adobe
 
 Este projeto adotou o [Código de conduta de código aberto da Adobe](code-of-conduct.md) ou o [Código de conduta do .NET Foundation](https://dotnetfoundation.org/code-of-conduct). Para obter mais informações, consulte o artigo [Contribuição](contributing.md).
 
 ## Como contribuir para o conteúdo do Adobe
 
-**Se você não for um funcionário da Adobe** você pode enviar uma contribuição externa da comunidade. As contribuições da comunidade são importadas para nossos sistemas internos e são editadas e mescladas no repositório público. O repositório público é então sincronizado com as alterações mais recentes e mesclado ao repositório privado.
+**Se você não for um funcionário da Adobe**, poderá enviar uma contribuição externa da comunidade. As contribuições da comunidade são importadas para nossos sistemas internos e são editadas e mescladas no repositório público. O repositório público é então sincronizado com as alterações mais recentes e mesclado ao repositório privado.
 
-**Se você for um funcionário da Adobe**, você pode contribuir diretamente para a [Repositório GitHub do Adobe](https://git.corp.adobe.com/AdobeDocs/). Para obter detalhes, consulte o Guia de criação da Adobe Experience League para funcionários da Adobe.
+**Se você for funcionário da Adobe**, poderá contribuir diretamente com o [repositório GitHub privado](https://git.corp.adobe.com/AdobeDocs/) da Adobe. Para obter detalhes, consulte o Guia de criação da Adobe Experience League para funcionários da Adobe.
 
 ## Contribuidores externos
 
@@ -26,24 +26,24 @@ Este projeto adotou o [Código de conduta de código aberto da Adobe](code-of-co
 Se você estiver contribuindo com uma pequena atualização:
 
 1. Navegue até o tópico que deseja editar.
-1. Na mensagem &quot;Este conteúdo foi útil?&quot;, banner exibido na parte inferior da janela do navegador, clique em **Opções de feedback detalhadas**.
-1. Clique em **Sugerir uma edição** e envie uma solicitação de pull (PR) com suas alterações na interface do usuário do GitHub.
+1. Na mensagem &quot;Este conteúdo foi útil?&quot;, banner que aparece na parte inferior da janela do navegador clique em **Opções detalhadas de feedback**.
+1. Clique em **Sugerir uma edição** e envie uma solicitação de pull com suas alterações na interface do GitHub.
 
-   Consulte o [guia geral do colaborador Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para obter mais informações.
+   Consulte o [guia geral do colaborador do Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para obter mais informações.
 
-Pequenas correções ou esclarecimentos que você envia para documentação e exemplos de código neste acordo de recompra são cobertos pelos termos de uso da Adobe.
+Pequenas correções ou esclarecimentos que você envia para documentação e exemplos de código neste repositório são cobertos pelos termos de uso da Adobe.
 
 ### Grandes alterações ou novos tópicos da comunidade
 
-Se fizer parte da comunidade Adobe e quiser criar um novo tópico ou enviar grandes alterações, use o **Problemas** no repositório Git aplicável para enviar um problema e iniciar uma conversa com a equipe de documentação. Depois que um plano for acordado, você trabalhará com um escritor de Adobe para publicar suas revisões.
+Se você fizer parte da comunidade da Adobe e quiser criar um novo tópico ou enviar grandes alterações, use a guia **Problemas** no repositório Git aplicável para enviar um problema e iniciar uma conversa com a equipe de documentação. Depois que um plano for acordado, você trabalhará com um autor do Adobe para publicar suas revisões.
 
-**NOTA:** Se você enviar uma solicitação de pull com alterações significativas na documentação e nos exemplos de código, verá uma mensagem na solicitação de pull solicitando que você envie um contrato de licença de contribuição online (CLA). Precisamos que você preencha o formulário on-line antes que possamos revisar sua solicitação de pull.
+**OBSERVAÇÃO:** se você enviar uma solicitação de pull com alterações significativas na documentação e exemplos de código, verá uma mensagem na solicitação de pull solicitando o envio de um contrato de licença de contribuição online (CLA). Precisamos que você preencha o formulário on-line antes que possamos revisar sua solicitação de pull.
 
 ### Ferramentas
 
-Os contribuidores da comunidade podem usar a interface do usuário do GitHub para a edição básica ou divisão do repositório para maiores contribuições.
+Os colaboradores da comunidade podem usar a interface do GitHub para edição básica ou bifurcar o repositório para fazer contribuições importantes.
 
-Consulte o [Guia do colaborador Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para ver mais detalhes.
+Consulte o [Guia do colaborador do Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para obter mais detalhes.
 
 ## Colaboradores internos
 
@@ -53,12 +53,12 @@ Se você for um autor técnico, gerente de programa ou desenvolvedor da equipe d
 
 Todos os artigos neste repositório usam GitHub-flavored Markdown. Se não estiver familiarizado com o Markdown, consulte:
 
-* [Noções básicas de marcação](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [Planilha de marcação para impressão](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Noções básicas do Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [Folha de consulta do markdown para impressão](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-## Etiquetas
+## Rótulos
 
-No repositório público, as etiquetas automatizadas são atribuídas a solicitações de baixa automática que ajudam a gerenciar o workflow e a saber o que está acontecendo com sua solicitação de baixa automática:
+No repositório público, os rótulos automatizados são atribuídos a solicitações de pull para nos ajudar a gerenciar o fluxo de trabalho da solicitação de pull e ajudar você a entender o que está acontecendo com sua solicitação de pull:
 
-* **Alteração enviada ao autor**: o autor foi notificado da solicitação de baixa pendente.
-* **ready-to-merge**: pronto para ser revisado pela nossa equipe de análise de solicitação de baixa automática.
+* **Alteração enviada ao autor**: o autor foi notificado sobre a solicitação de pull pendente.
+* **Pronto para mesclar**: pronto para ser revisado pela equipe de revisão da solicitação de pull.
