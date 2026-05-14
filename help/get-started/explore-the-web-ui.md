@@ -10,16 +10,12 @@ jira: KT-14388
 duration: 592
 exl-id: 8c2f3847-5aca-4b7a-bf86-1212a741dfdd
 TQID: https://experienceleague.adobe.com/Bx6fResOSB01S9LIvF9NGoLzFA7UKh7BMHh28Z6GLaY
-product_v2:
-  - id: dfc56824-e8b9-499e-85d4-21aedb507314
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: 8991e608238e8a09e618809744685e07780dd57c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: 83
 ht-degree: 100%
 
@@ -29,6 +25,6 @@ ht-degree: 100%
 
 Saiba como acessar e navegar na interface Campaign Web e personalizar as listas de inventário.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453427/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
 
 Consulte a [Introdução ao Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=pt-BR) para obter mais informações sobre como navegar na interface do Campaign Web v8.

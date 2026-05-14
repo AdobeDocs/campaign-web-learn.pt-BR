@@ -10,16 +10,12 @@ last-substantial-update: 2024-02-15T00:00:00.000Z
 jira: KT-14392
 exl-id: 59bd4866-02de-4bf6-a104-96416251e850
 TQID: https://experienceleague.adobe.com/W8q8nPuLhnucfLDZ-54Ju22-IQ5r0kCQ4cA3YpuI1Dk
-product_v2:
-  - id: dfc56824-e8b9-499e-85d4-21aedb507314
-feature_v2:
-  - id: a075b2c1-7748-4328-b7f6-343aa314616a
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: 8991e608238e8a09e618809744685e07780dd57c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: 66
 ht-degree: 100%
 
@@ -29,6 +25,6 @@ ht-degree: 100%
 
 Saiba como criar e gerenciar públicos-alvo, selecionar públicos-alvo para uma entrega e definir grupos de controle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453207/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=pt-BR)
